@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WellFood.MVC.props" />
+</Project>

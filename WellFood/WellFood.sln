@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellFood.MVC", "WellFood\WellFood.MVC.csproj", "{6C1AF189-D454-40D9-8198-4BFA04924855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellFood.DAL", "WellFood.DAL\WellFood.DAL.csproj", "{219612EF-732E-45FB-8F89-BAC8277E871E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6C1AF189-D454-40D9-8198-4BFA04924855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C1AF189-D454-40D9-8198-4BFA04924855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C1AF189-D454-40D9-8198-4BFA04924855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219612EF-732E-45FB-8F89-BAC8277E871E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219612EF-732E-45FB-8F89-BAC8277E871E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219612EF-732E-45FB-8F89-BAC8277E871E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219612EF-732E-45FB-8F89-BAC8277E871E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WellFood.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+025f9dc1b98762240ecbb3096a8736b60e41086a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WellFood.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WellFood.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
