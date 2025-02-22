@@ -1483,6 +1483,19 @@
           }
         }
       },
+      "WellFood.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "WellFood.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WellFood.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WellFood.BL.dll": {}
+        }
+      },
       "WellFood.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -3973,6 +3986,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "WellFood.BL/1.0.0": {
+      "type": "project",
+      "path": "../WellFood.BL/WellFood.BL.csproj",
+      "msbuildProject": "../WellFood.BL/WellFood.BL.csproj"
+    },
     "WellFood.DAL/1.0.0": {
       "type": "project",
       "path": "../WellFood.DAL/WellFood.DAL.csproj",
@@ -3982,7 +4000,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore.Design >= 8.0.11",
-      "WellFood.DAL >= 1.0.0"
+      "WellFood.BL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4017,8 +4035,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\FinalProject\\WellFood\\WellFood.DAL\\WellFood.DAL.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\FinalProject\\WellFood\\WellFood.DAL\\WellFood.DAL.csproj"
+            "C:\\Users\\User\\Desktop\\FinalProject\\WellFood\\WellFood.BL\\WellFood.BL.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\FinalProject\\WellFood\\WellFood.BL\\WellFood.BL.csproj"
             }
           }
         }

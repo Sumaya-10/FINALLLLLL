@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\WellFood.BL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\WellFood.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\WellFood.BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\WellFood.BL.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\WellFood.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\WellFood.BL.sourcelink.json
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\bin\Debug\net8.0\WellFood.BL.deps.json
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\bin\Debug\net8.0\WellFood.BL.dll
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\bin\Debug\net8.0\WellFood.BL.pdb
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\bin\Debug\net8.0\WellFood.DAL.dll
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\bin\Debug\net8.0\WellFood.DAL.pdb
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\WellFood.1FE78B20.Up2Date
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\WellFood.BL.dll
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\refint\WellFood.BL.dll
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\WellFood.BL.pdb
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood.BL\obj\Debug\net8.0\ref\WellFood.BL.dll

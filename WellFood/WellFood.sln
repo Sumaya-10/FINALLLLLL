@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellFood.MVC", "WellFood\We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellFood.DAL", "WellFood.DAL\WellFood.DAL.csproj", "{219612EF-732E-45FB-8F89-BAC8277E871E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellFood.BL", "WellFood.BL\WellFood.BL.csproj", "{20CC001D-304F-4E51-BEFE-E2BAD652299D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{219612EF-732E-45FB-8F89-BAC8277E871E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{219612EF-732E-45FB-8F89-BAC8277E871E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{219612EF-732E-45FB-8F89-BAC8277E871E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CC001D-304F-4E51-BEFE-E2BAD652299D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CC001D-304F-4E51-BEFE-E2BAD652299D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CC001D-304F-4E51-BEFE-E2BAD652299D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CC001D-304F-4E51-BEFE-E2BAD652299D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

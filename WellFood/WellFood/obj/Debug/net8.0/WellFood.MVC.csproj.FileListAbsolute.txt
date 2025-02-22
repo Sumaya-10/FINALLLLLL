@@ -143,3 +143,7 @@ C:\Users\User\Desktop\FinalProject\WellFood\WellFood\bin\Debug\net8.0\WellFood.D
 C:\Users\User\Desktop\FinalProject\WellFood\WellFood\bin\Debug\net8.0\WellFood.DAL.pdb
 C:\Users\User\Desktop\FinalProject\WellFood\WellFood\obj\Debug\net8.0\WellFood.MVC.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\FinalProject\WellFood\WellFood\obj\Debug\net8.0\WellFood.708CE2E0.Up2Date
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood\obj\Debug\net8.0\WellFood.MVC.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood\obj\Debug\net8.0\WellFood.MVC.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood\bin\Debug\net8.0\WellFood.BL.dll
+C:\Users\User\Desktop\FinalProject\WellFood\WellFood\bin\Debug\net8.0\WellFood.BL.pdb
